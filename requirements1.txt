@@ -1,12 +1,5 @@
-Flask==2.1.2
-scikit-learn==0.24.2
-numpy==1.21.2
-gunicorn==20.1.0
-Flask-WTF==0.15.1  # For handling web forms in Flask
-Flask-SQLAlchemy==3.0.0  # For using SQLAlchemy with Flask for database operations
-Flask-Migrate==3.0.0  # For managing database migrations with Flask and SQLAlchemy
-Flask-Login==0.5.0  # For user session management and authentication
-Flask-Mail==0.9.1  # For sending emails from Flask applications
-Flask-RESTful==0.3.9  # For building REST APIs with Flask
-Flask-Caching==1.10.1  # For caching in Flask applications
-requests==2.26.0  # For making HTTP requests from the Flask application
+streamlit==1.20.0
+pandas==2.0.1
+scikit-learn==1.2.2
+numpy==1.24.3
+pickle5==0.0.12
